@@ -81,6 +81,7 @@ Finally, add a custom CSS file called **"style.css"** to the "css" folder and in
 
 - Now, create a **<section>** element with classes **"fxt-template-animation"** and **"fxt-template-layout32"** to hold the main content of the page.
 - Inside the section, create a **<div>** with the class **"fxt-content-wrap"** to wrap the logo, title, description, and button.
+
 - Add an **<a>** tag with the class **"fxt-logo"** inside the content wrap **<div>**. Set the href attribute to **"#"**(this can be a website link) and add an **<img>** tag inside it to display the logo image.
 
 ```html
