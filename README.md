@@ -66,7 +66,7 @@ Finally, add a custom CSS file called **"style.css"** to the "css" folder and in
 <![endif]-->
 ```
 
-- Next, create a **<div>** with an **id** attribute set to **"preloader"** to display a preloader animation.
+- Next, create a <div> with an **id** attribute set to **"preloader"** to display a preloader animation.
 - Inside the preloader **<div>**, add three child **<div>** elements with classes **"line1"**, **"line2"**, and **"line3"** to represent the preloader animation.
 
 ```html
@@ -78,18 +78,18 @@ Finally, add a custom CSS file called **"style.css"** to the "css" folder and in
     </div>
 </div>
 ```
-- Now, create a **<section>** element with classes **"fxt-template-animation"** and **"fxt-template-layout32"** to hold the main content of the page.
+- Now, create a <section> element with classes **"fxt-template-animation"** and **"fxt-template-layout32"** to hold the main content of the page.
 - Inside the section, create a **<div>** with the class **"fxt-content-wrap"** to wrap the logo, title, description, and button.
 - Add an **<a>** tag with the class **"fxt-logo"** inside the content wrap **<div>**. Set the href attribute to **"#"**(this can be a website link) and add an **<img>** tag inside it to display the logo image.
 ```html
 <a href="#" class="fxt-logo"><img src="img/logo-32.png" alt="Logo"></a>
 ```
-- Add an **<h1>** tag with the class "fxt-main-title" to display the main title.
+Add an <h1> tag with the class "fxt-main-title" to display the main title.
 
 ```html
 <h1 class="fxt-main-title">Welcome!</h1>
 ```
-- Add a **<p>** tag with the class "fxt-main-description" to display the main description.
+- Add a <p> tag with the class "fxt-main-description" to display the main description.
 
 ```html
 <p class="fxt-main-description">Dear customer. Please fill the form below.</p>
