@@ -84,7 +84,7 @@ Finally, add a custom CSS file called **"style.css"** to the "css" folder and in
 ```html
 <a href="#" class="fxt-logo"><img src="img/logo-32.png" alt="Logo"></a>
 ```
-Add an <h1> tag with the class "fxt-main-title" to display the main title.
+Add an "<h1>" tag with the class "fxt-main-title" to display the main title.
 
 ```html
 <h1 class="fxt-main-title">Welcome!</h1>
