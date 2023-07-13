@@ -84,12 +84,12 @@ Finally, add a custom CSS file called **"style.css"** to the "css" folder and in
 ```html
 <a href="#" class="fxt-logo"><img src="img/logo-32.png" alt="Logo"></a>
 ```
-- Add an **<h1>** tag with the class **"fxt-main-title"** to display the main title.
+- Add an **<h1>** tag with the class "fxt-main-title" to display the main title.
 
 ```html
 <h1 class="fxt-main-title">Welcome!</h1>
 ```
-- Add a **<p>** tag with the class **"fxt-main-description"** to display the main description.
+- Add a **<p>** tag with the class "fxt-main-description" to display the main description.
 
 ```html
 <p class="fxt-main-description">Dear customer. Please fill the form below.</p>
